@@ -1,9 +1,7 @@
-package com.dsa.array;
+package com.dsa.array.basic;
 
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Collection;
-import java.util.Collections;
 
 public class LeftRotateByOne {
 

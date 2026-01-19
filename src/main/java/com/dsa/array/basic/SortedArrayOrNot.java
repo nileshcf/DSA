@@ -1,4 +1,4 @@
-package com.dsa.array;
+package com.dsa.array.basic;
 
 
 public class SortedArrayOrNot {
