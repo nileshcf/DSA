@@ -17,6 +17,11 @@ public class Node {
         this.next = null;
     }
 
+    Node() {
+        this.data = 0;
+        this.next = null;
+    }
+
 
     public static void main(String[] args) {
 
