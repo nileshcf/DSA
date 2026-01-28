@@ -1,4 +1,4 @@
-package com.dsa.Strings;
+package com.dsa.Strings.sectionOne;
 
 public class LargestOddNumberInString {
 

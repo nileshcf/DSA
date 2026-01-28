@@ -1,4 +1,4 @@
-package com.dsa.Strings;
+package com.dsa.Strings.sectionOne;
 
 import java.util.Arrays;
 import java.util.HashMap;

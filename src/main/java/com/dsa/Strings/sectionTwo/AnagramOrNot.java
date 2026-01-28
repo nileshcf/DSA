@@ -1,4 +1,4 @@
-package com.dsa.Strings;
+package com.dsa.Strings.sectionTwo;
 
 public class AnagramOrNot {
 

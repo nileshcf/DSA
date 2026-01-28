@@ -1,6 +1,4 @@
-package com.dsa.Strings;
-
-import java.util.ArrayList;
+package com.dsa.Strings.sectionOne;
 
 /**
  * Author: Nilesh Verma
