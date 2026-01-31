@@ -1,4 +1,4 @@
-package com.dsa.array.basic;
+package com.dsa.Array.basic;
 
 
 public class FindSecondLargestAndSecondSmallestNum {

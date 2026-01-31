@@ -1,4 +1,4 @@
-package com.dsa.array.medium;
+package com.dsa.Array.medium;
 
 
 import java.util.Arrays;

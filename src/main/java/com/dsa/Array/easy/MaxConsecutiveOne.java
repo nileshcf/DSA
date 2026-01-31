@@ -1,4 +1,4 @@
-package com.dsa.array.easy;
+package com.dsa.Array.easy;
 
 
 public class MaxConsecutiveOne {
