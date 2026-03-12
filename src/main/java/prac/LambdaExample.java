@@ -19,5 +19,6 @@ public class LambdaExample {
 				.filter(e ->e.salary>50000)
 				.sorted((e1, e2) -> e1.name.compareTo(e2.name))
 				.forEach(System.out::println);
+
 	}
 }
